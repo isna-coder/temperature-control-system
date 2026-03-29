@@ -24,3 +24,6 @@ If the temperature goes above 40°C, the LED turns ON. Otherwise, it stays OFF.
 . Arduino (C programming)
 
 
+## Demo
+[▶ Watch Demo](AUTO.mp4)
+[▶ Watch Demo](MANUAL.mp4)
